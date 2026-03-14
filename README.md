@@ -1,6 +1,6 @@
 # Supply Chain Data Visualization
 
-![Supply Chain  Dashboard](এখানে আপনার ছবির ফাইলের নাম দিন)
+![Supply Chain  Dashboard(Supply%20Chain%20Dashboard.png )
 
 ## 📊 Project Overview
 This project visualizes end-to-end supply chain and logistics operations, offering actionable insights for inventory management, cost reduction, and delivery optimization. It captures critical data points, from production to final delivery, helping data analysts and supply chain professionals make informed, data-driven decisions.
