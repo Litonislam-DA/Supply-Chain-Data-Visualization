@@ -18,8 +18,13 @@ This project visualizes end-to-end supply chain and logistics operations, offeri
 Feel free to reach out for collaboration or questions!
 
 
+To me
 
-Liton Islam <litonislamnext@gmail.com> 
+
+Liton Islam 
+
+
+<litonislamnext@gmail.com> 
 
 🚀 Check my Analysis on Kaggle
 https://www.kaggle.com/code/litonislam/supply-chain-data-visualization
